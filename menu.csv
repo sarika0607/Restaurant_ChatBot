@@ -1,0 +1,168 @@
+﻿Section,Item,About,Price
+beverages,soft drink,soft drink,$1.99 
+beverages,mango juice,mango juice,$3.99 
+beverages,bottle water,bottle water,$1.99 
+beverages,sparkling water,sparkling water,$3.99 
+beverages,mango lassi,yogurt drink flavored with mango,$3.99 
+beverages,mango milkshake,milk shake flavored with mango,$3.99 
+beverages,masala chai,indian tea flavored with spices and milk,$2.99 
+beverages,coffee,coffee,$2.99 
+beverages,hot tea,green or black,$1.99 
+beverages,lassi,yogurt drink plain sweet or salty,$3.99 
+vegetarian appetizers,vegetable pakora,vegetable deep fried in chickpea batter,$4.99 
+vegetarian appetizers,paneer pakora,homemade cheese deep fried in chickpea batter,$6.99 
+vegetarian appetizers,onion bhaji,onions and peppers deep fried in chickpea batter,$4.99 
+vegetarian appetizers,papri chaat,special mix of onion potato yogurt chickpeas tamarind sauce mint sauce and fried wafers,$7.99 
+vegetarian appetizers,samosa,lightly spiced turnovers stuffed with potatoes and peas veggie,$4.99 
+vegetarian appetizers,aloo tikki chaat,round fried potato croquets mixed with onions chickpeas tamarind sauce mint sauce yogurt and garnished with chaat masala and fresh cilantro,$8.99 
+vegetarian appetizers,assorted appetizer,combination platter of vegetable pakora paneer pakora samosa and onion bhaji,$8.99 
+vegetarian appetizers,samosa chaat,light spicy turnovers stuffed with potatoes and peas mixed with yogurt onion sauce tamarind sauce mint sauce and garnished with chickpeas chaat masala and fresh cilantro,$8.99 
+vegetarian appetizers,chili pakora,fresh green chilies deep fried in chickpea batter,$5.99 
+vegetarian appetizers,gobi manchurian,fresh cauliflower deep fried cooked in sweet and sour sauce,$11.99 
+vegetarian appetizers,chilli paneer,fresh homemade cheese flavored with ginger and garlic and cooked on sweet and sour sauce,$15.99 
+vegetarian appetizers,chilli chicken,fresh chicken flavored with ginger and garlic and cooked in a sweet and sour sauce,$16.99 
+non vegetarian appetizers,chicken pakora,chicken deep fried in lightly spiced chickpea batter,$6.99 
+non vegetarian appetizers,house special appetizer,combination platter of vegetable pakora chicken pakora samosa onion bhaji and chicken tikka,$10.99 
+non vegetarian appetizers,chicken chaat,chicken tikka mixed with onions chickpeas potato fried wafers tamarind sauce mint sauce and garnished with chaat masala and fresh cilantro,$9.99 
+non vegetarian appetizers,chicken,,$15.99 
+soups,chicken soup,a delicately spiced and flavorful chicken soup,$4.99 
+soups,mulligatawny soup,a traditional soup with lentils chicken and curry spices,$4.99 
+soups,tomato soup,lightly spiced fresh tomato soup,$4.99 
+soups,lentil soup,a tasty lentil soup with spices and herbs,$4.99 
+soups,vegetable soup,assorted vegetables cooked in a vegetable broth and lightly spiced,$4.99 
+chicken,chicken curry,chicken in a special blend of herbs and spices,$14.99 
+chicken,chicken vindaloo,chicken in a hot and spicy curry sauce,$14.99 
+chicken,chicken saag,chicken in freshly chopped spinach in a rich butter sauce,$14.99 
+chicken,chicken korma,chicken in a mild cream sauce with nuts and raisins,$14.99 
+chicken,chicken rogan josh,chicken cooked with kashmiri spices,$14.99 
+chicken,methi chicken,boneless chicken cooked in fresh fenugreek leaves and spices,$14.99 
+chicken,chicken tikka masala,boneless chicken breast in a light cream sauce with tomato herbs and spices,$14.99 
+chicken,chicken madras,chicken cooked with green chili peppers sauce onions and curry leaves,$14.99 
+chicken,coconut chicken,boneless chicken cooked in a grated coconut sauce,$14.99 
+chicken,butter chicken,boneless chicken cooked in a creamy tomato sauce,$14.99 
+chicken,chicken jalfraji,boneless chicken cooked with mixed vegetables and herbs,$14.99 
+chicken,egg curry,boiled egg in a special blend of herbs and spices,$13.99 
+chicken,chicken do piaja,boneless chicken breast cooked with sauteed onions green peppers and spices,$14.99 
+chicken,chicken bhunna,boneless chicken thigh cooked with fresh green peppers tomatoes and onions,$14.99 
+chicken,karahi chicken,tandoori boneless chicken in special blend of herbs and spices with onions and peppers served in karahi dish,$14.99 
+chicken,garden chicken,tandoori boneless chicken in special blend of herbs and spices with onions and peppers,$14.99 
+chicken,meatball,beef and chicken ground with indian spices,$14.99 
+lamb and goat,goat curry,goat in special blend of herbs and spices,$15.99 
+lamb and goat,lamb curry,lamb in special blend of herbs and spices,$15.99 
+lamb and goat,goat vindaloo,goat in a hot and spicy curry sauce,$15.99 
+lamb and goat,lamb vindaloo,lamb in a hot and spicy curry sauce,$15.99 
+lamb and goat,goat saag,goat in freshly chopped spinach in a rich butter sauce,$15.99 
+lamb and goat,lamb saag,lamb in freshly chopped spinach in a rich butter sauce,$15.99 
+lamb and goat,goat korma,goat in a mild cream sauce with nuts and raisins,$15.99 
+lamb and goat,lamb korma,lamb in a mild cream sauce with nuts and raisins,$15.99 
+lamb and goat,goat rogan josh,goat cooked with kashmiri spices,$15.99 
+lamb and goat,lamb rogan josh,lamb cooked with kashmiri spices,$15.99 
+lamb and goat,goat do piaja,goat simmered in spices and cooked with bell peppers and onions,$15.99 
+lamb and goat,lamb do piaja,lamb simmered in spices and cooked with bell peppers and onions,$15.99 
+lamb and goat,lamb tikka masala,lamb in a light cream sauce with tomato herbs and spices,$15.99 
+lamb and goat,goat madras,goat cooked in sauce with green chili peppers,$15.99 
+lamb and goat,lamb madras,lamb cooked in sauce with green chili peppers,$15.99 
+lamb and goat,goat bhunna,bone in goat cooked with bell peppers tomatoes onions and spices,$15.99 
+lamb and goat,lamb bhunna,boneless pieces of lamb cooked with bell peppers tomatoes onions and spices,$15.99 
+lamb and goat,coconut lamb,tender pieces of lamb cooked in a grated coconut sauce and mildly spiced,$15.99 
+lamb and goat,karahi lamb,lamb mixed in special blend of herbs and spices with onions and peppers served in karahi dish,$15.99 
+lamb and goat,methi goat,goat cooked in fenugreek,$15.99 
+lamb and goat,methi lamb,lamb cooked in fenugreek,$15.99 
+beef,beef curry,beef cooked in a special blend of herbs and spices,$14.99 
+beef,beef vindaloo,beef in a hot and spicy curry sauce,$14.99 
+beef,beef saag,beef in freshly chopped spinach in a rich butter sauce,$14.99 
+beef,beef korma,beef in a mild cream sauce with nuts and raisins,$15.99 
+beef,beef rogan josh,beef cooked with kashmiri spices,$14.99 
+beef,beef bhunna,chunks of beef with green peppers onions and tomatoes in a thick gravy,$14.99 
+beef,coconut beef,beef cooked in a grated coconut sauce and mildly spiced,$14.99 
+beef,karahi beef,beef in special blend of herbs and spices with onions and peppers served in karahi dish and basmati rice,$14.99 
+seafood,shrimp curry,shrimp in a special blend of herbs and spices,$16.99 
+seafood,shrimp vindaloo,shrimp in a hot and spicy curry sauce,$16.99 
+seafood,shrimp saag,shrimp in freshly chopped spinach in a rich butter sauce,$16.99 
+seafood,shrimp korma,shrimp in a cream sauce with nuts and raisins,$16.99 
+seafood,fish korma,fish in a cream sauce with nuts and raisins,$16.99 
+seafood,shrimp rogan josh,shrimp cooked with kashmiri spices,$16.99 
+seafood,fish rogan josh,fish cooked with kashmiri spices,$16.99 
+seafood,shrimp bhunna,shrimp with green peppers tomatoes onions and spices in a thick gravy,$16.99 
+seafood,coconut shrimp,shrimp cooked in a grated coconut and mildly spiced,$16.99 
+seafood,coconut fish,fish cooked in a grated coconut and mildly spiced,$16.99 
+seafood,fish curry,fish in a special blend of herbs and spices,$15.99 
+seafood,fish vindaloo,fish in a hot and spicy curry sauce,$15.99 
+seafood,fish saag,fish in freshly chopped spinach in a rich butter sauce,$15.99 
+seafood,fish tikka masala,fish in a light cream sauce with tomato herb and spices,$15.99 
+seafood,fish bhunna,boneless fish spices with green peppers tomatoes onions and spices in a thick gravy,$15.99 
+vegetarian,bhindi do piaja,fresh okra cooked with sauteed onions green peppers and spices,$13.99 
+vegetarian,bhindi masala,fresh okra cooked with chopped onions ginger tomatoes and spices,$13.99 
+vegetarian,aloo gobi,cauliflower and potatoes cooked with tomatoes onions herbs and spices,$13.99 
+vegetarian,saag paneer,freshly minced spinach cooked with homemade cheese in a rich butter sauce,$14.99 
+vegetarian,matar paneer,homemade cheese cooked with garden peas and spices,$13.99 
+vegetarian,malai kofta,shredded vegetable and homemade cheese sauteed in a creamy korma sauce,$13.99 
+vegetarian,bhaigan bhartha,tandoor clay oven roasted eggplant mashed and seasoned with spices,$13.99 
+vegetarian,paneer masala,homemade cheese cooked with tomato sauce and light cream,$14.99 
+vegetarian,aloo methi,potatoes cooked in fresh aromatic fenugreek leaves and spices,$12.99 
+vegetarian,channa saag,freshly minced spinach cooked with chickpeas in a rich butter sauce,$13.99 
+vegetarian,karahi paneer,homemade cheese cooked with bell peppers and onions in a flavorful gravy,$14.90 
+vegetarian,bombay aloo,potatoes cooked with fresh bell peppers tomatoes onions and spices,$12.99 
+vegetarian,channa masala,chickpeas cooked with tomatoes onions and spices,$13.99 
+vegetarian,paneer makhani,homemade cheese cooked with a rich butter and korma sauce,$14.99 
+vegetarian,aloo saag,fresh minced spinach cooked with potatoes in a rich butter sauce,$13.99 
+vegetarian,vegetable korma,fresh vegetables cooked in a creamy sauce with nuts raisins and spices,$13.99 
+vegetarian,aloo bhaigan,eggplant and potatoes cooked with tomatoes onions and spices,$13.99 
+vegetarian,dal makhani,black lentils cooked with onions garlic ginger and spices,$12.99 
+vegetarian,tarka dal,yellow lentils cooked with onions garlic ginger and spices,$12.99 
+vegetarian,aloo matar,potatoes and garden peas cooked with onions garlic and spices,$12.99 
+vegetarian,vegetable jalfraji,mixed vegetables cooked in a thick gravy,$13.99 
+vegetarian,rajmah curry,red beans cooked in onions tomato and indian spices,$13.99 
+vegetarian,mushroom do piaja,fresh mushroom cooked in onion tomato and indian spices,$14.99 
+vegetarian,punjabi curry pakora,deep fried vegetable pakoras cooked in yogurt onion tomato and indian spices,$13.99 
+rice specialties,shrimp biryani,jumbo shrimp cooked in basmati rice nuts and spices,$15.99 
+rice specialties,chicken biryani,tender boneless chicken cooked in basmati rice nuts and spices,$14.99 
+rice specialties,mushroom fried rice,mushroom fried rice,$8.99 
+rice specialties,meat biryani,tender meat cooked in basmati rice nuts and spices,$15.99 
+rice specialties,vegetable biryani,fresh vegetables cooked in basmati rice nuts and spices,$13.99 
+rice specialties,matar pilaf,green peas cooked with garlic onions and spices in basmati rice,$8.99 
+rice specialties,nawabi biryani,tender boneless pieces of lamb chicken shrimp and vegetables cooked with spices and nuts in basmati rice garnished with egg and tomato,$19.99 
+tandoori specials,tandoori chicken,fresh chicken legs marinated in spices and yogurt and baked in tandoor oven,$14.99 
+tandoori specials,chicken tikka,tender boneless chicken breast marinated in spices and yogurt and baked in tandoor oven,$17.99 
+tandoori specials,sheek kebab,freshly ground chicken with onions and spices and baked in tandoor oven,$17.99 
+tandoori specials,lamb kebab,lamb marinated in herbs and spices then cooked in tandoor oven,$18.99 
+tandoori specials,tandoori shrimp,jumbo shrimp marinated in spices then baked in tandoori oven,$19.99 
+tandoori specials,mixed grill,mixed platter of tandoori chicken chicken tikka lamb kebab sheek kebab tandoori shrimp and onions,$19.99 
+tandoori specials,tandoori fish tikka,mahi fish fillet marinated with spices then baked in tandoor oven,$18.99 
+tandoori specials,paneer tikka,fresh homemade cheese marinated with spices then baked in tandoor oven,$18.99 
+fresh breads,naan,unleavened bread baked in our clay oven,$2.50 
+fresh breads,peshaveri naan,naan stuffed with sweet nuts and raisins,$4.99 
+fresh breads,aloo naan,naan stuffed with lightly spiced potatoes,$3.99 
+fresh breads,garlic naan,naan with fresh spiced garlic and cilantro,$2.99 
+fresh breads,onion paneer naan,naan stuffed with homemade cheese and lightly spiced,$4.99 
+fresh breads,keema naan,naan stuffed with spiced meat,$4.99 
+fresh breads,onion kulcha,naan stuffed with lightly spiced onions and fresh cilantro,$3.99 
+fresh breads,bullet naan,naan stuffed with hot and spicy green chilies,$3.99 
+fresh breads,tandoori roti,wheat bread baked in our clay oven,$2.50 
+fresh breads,chapati,wheat bread cooked on a skillet,$2.99 
+fresh breads,plain parantha,multilayered whole wheat butten bread,$2.50 
+fresh breads,puri bread,pieces fluffy and deep fried whole wheat bread,$3.99 
+fresh breads,bhatura,pieces soft and fluffy deep fried bread,$3.99 
+fresh breads,tandoori garlic roti,multilayered whole wheat buttery bread with fresh spiced garlic and cilantro,$3.50 
+fresh breads,aloo parantha,whole wheat buttery bread stuffed with lightly spiced potatoes and peas,$3.99 
+fresh breads,gobi parantha,whole wheat buttery bread stuffed with spiced cauliflower,$3.99 
+fresh breads,keema parantha,whole wheat buttery bread stuffed with spiced meat,$4.99 
+fresh breads,latcha parantha,multilayered buttery and flaky whole wheat bread,$2.99 
+sides and condiments,raita,homemade yogurt with cucumbers spices and herbs,$2.99 
+sides and condiments,mango chutney,mangoes seasoned with herbs and spices,$2.99 
+sides and condiments,achaar,mixed indian style vegetable pickles spicy,$2.99 
+sides and condiments,plain yogurt,plain yogurt,$2.99 
+sides and condiments,kachumber salad,indian style salad with chunks of cucumbers onion and bell peppers in yogurt herbs and spices,$5.99 
+sides and condiments,special sauce,korma buttery and etc,$7.99 
+sides and condiments,plain basmati rice,Plain rice,$2.50 
+sides and condiments,papad,crisp lentil flour wafer fried or baked,$2.99 
+sides and condiments,chutney,mint onion or tamarind,$1.50 
+sides and condiments,desi salad,onion and green chili peppers,$2.99 
+kids choice,kid s french fries,kid s french fries,$3.99 
+kids choice,kid s piece chicken nuggets,kid s piece chicken nuggets,$6.99 
+kids choice,kid s chicken pakora,kid s chicken pakora,$7.99 
+kids choice,kid s paneer pakora,kid s paneer pakora,$7.99 
+desserts,kulfi,indian homemade ice cream mango or pistachio flavored,$4.99 
+desserts,gulab jamun,milk balls soaked in sugar syrup,$4.99 
+desserts,ras malai,puffy homemade cheese dumplings in a sweet cream,$4.99 
+desserts,kheer,rice flavored with cardamon and cooked in sweetened milk,$4.99 
