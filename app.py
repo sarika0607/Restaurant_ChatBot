@@ -1,6 +1,5 @@
 from flask import Flask, redirect, url_for, render_template, request
 from functions import *
-
 import openai
 import json
 
@@ -11,7 +10,7 @@ app = Flask(__name__)
 conversation_bot = []
 conversation = initialize_conversation()
 introduction = chat_with_gpt(conversation)
-conversation_bot.append({"bot": introduction})
+conversation_bot.append({"bot":introduction['content']})
 
 
 @app.route("/")
@@ -25,7 +24,7 @@ def end_conv():
     conversation_bot = []
     conversation = initialize_conversation()
     introduction = chat_with_gpt(conversation)
-    conversation_bot.append({"bot": introduction})
+    conversation_bot.append({"bot":introduction['content']})
 
     return redirect(url_for('default_func'))
 
