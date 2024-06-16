@@ -11,7 +11,7 @@ app = Flask(__name__)
 conversation_bot = []
 conversation = initialize_conversation()
 introduction = chat_with_gpt(conversation)
-conversation_bot.append({'RestaurantBot': introduction})
+conversation_bot.append({"bot": introduction})
 
 
 @app.route("/")
@@ -25,7 +25,7 @@ def end_conv():
     conversation_bot = []
     conversation = initialize_conversation()
     introduction = chat_with_gpt(conversation)
-    conversation_bot.append({'RestaurantBot':introduction})
+    conversation_bot.append({"bot": introduction})
 
     return redirect(url_for('default_func'))
 
@@ -38,7 +38,7 @@ def invite():
     prompt = 'Remember your system message and that you are an intelligent restaurant bot. So, you only help with questions around the offering of this restaurant.'
 
     conversation.append({"role": "user", "content": user_input + prompt})
-    conversation_bot.append({'user':user_input})
+    conversation_bot.append({'user': user_input})
 
     response = chat_with_gpt(conversation)
 
@@ -51,7 +51,7 @@ def invite():
 
         print(f"************bot: 1..{response}")
         if response.get('function_call'):
-            # print(f"RestaurantBot: 3...{response.content}")
+            # print(f"bot: 3...{response.content}")
 
             chosen_function = eval(response['function_call'].name)
             params = json.loads(response['function_call'].arguments)
